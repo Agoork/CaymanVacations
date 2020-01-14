@@ -1,0 +1,1752 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",       
+        "title": "The Meridian",
+		"description": "Luxury Condos",
+		"filter": "Luxury Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38152599334717,
+          19.332455502735375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",       
+        "title": "The Beachcomber",
+		"description": "Luxury Condos",
+		"filter": "Luxury Condos",
+		"id": "beach1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38134896755217,
+          19.33298700532833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Caribbean Club",
+		"description": "Luxury Condos",
+		"filter": "Luxury Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38171374797821,
+          19.33124063317037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Coral Stone Club",
+		"description": "Luxury Condos",
+		"filter": "Luxury Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38133823871613,
+          19.334657430787452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "The Renaissance",
+		"description": "Luxury Condos",
+		"filter": "Luxury Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38799011707306,
+          19.35899308478494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "SeaBreeze",
+		"description": "Luxury Condos",
+		"filter": "Luxury Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39423966407774,
+          19.36544081732197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "South Bay Beach Club",
+		"description": "Luxury Condos",
+		"filter": "Luxury Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38453006744383,
+          19.31710698663932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8b16",
+        "marker-size": "small",
+        "title": "Plantana",
+		"description": "Deluxe Condos",
+		"filter": "Deluxe Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3814777135849,
+          19.343385291680593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8b16",
+        "marker-size": "small",
+        "title": "Casa Caribe",
+		"description": "Deluxe Condos",
+		"filter": "Deluxe Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38192567192078,
+          19.33043577710702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8b16",
+        "marker-size": "small",
+        "title": "Islands Club",
+		"description": "Deluxe Condos",
+		"filter": "Deluxe Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38196587562561,
+          19.329489180309444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8b16",
+        "marker-size": "small",
+        "title": "Lacovia",
+		"description": "Deluxe Condos",
+		"filter": "Deluxe Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38233602046965,
+          19.326178579385292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8b16",
+        "marker-size": "small",
+        "title": "Regal Beach Club",
+		"description": "Deluxe Condos",
+		"filter": "Deluxe Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38404726982115,
+          19.31842320878212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8b16",
+        "marker-size": "small",
+        "title": "The Grandview",
+		"description": "Deluxe Condos",
+		"filter": "Deluxe Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38595163822174,
+          19.31272287798448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8b16",
+        "marker-size": "small",
+        "title": "Silver Sands",
+		"description": "Deluxe Condos",
+		"filter": "Deluxe Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39279127120972,
+          19.364170522839775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8b16",
+        "marker-size": "small",
+        "title": "Aqua Bay Club",
+		"description": "Deluxe Condos",
+		"filter": "Deluxe Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39208316802979,
+          19.363715036351575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8b16",
+        "marker-size": "small",
+        "title": "Discovery Point Club",
+		"description": "Deluxe Condos",
+		"filter": "Deluxe Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39105319976807,
+          19.362470033457576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8b16",
+        "marker-size": "small",
+        "title": "Christopher Columbus",
+		"description": "Deluxe Condos",
+		"filter": "Deluxe Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39039874076843,
+          19.361832345366633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8b16",
+        "marker-size": "small",
+        "title": "The Anchorage",
+		"description": "Deluxe Condos",
+		"filter": "Deluxe Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38989448547363,
+          19.361316119847235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8b16",
+        "marker-size": "small",
+        "title": "London House",
+		"description": "Deluxe Condos",
+		"filter": "Deluxe Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38825833797453,
+          19.3594789510644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8b16",
+        "marker-size": "small",
+        "title": "Heritage Club",
+		"description": "Deluxe Condos",
+		"filter": "Deluxe Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38782382011414,
+          19.35857301173065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffb23a",
+        "marker-size": "small",
+        "title": "White Sands",
+		"description": "Value Condos",
+		"filter": "Value Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3872766494751,
+          19.357408948215546
+        ]
+
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffb23a",
+        "marker-size": "small",
+        "title": "Sundowner",
+		"description": "Value Condos",
+		"filter": "Value Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3865739107132,
+          19.355571735415268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8b16",
+        "marker-size": "small",
+        "title": "Villas of the Galleon",
+		"description": "Deluxe Condos",
+		"filter": "Deluxe Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38104856014252,
+          19.337476867724575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8b16",
+        "marker-size": "small",
+        "title": "Tamarind Bay",
+		"description": "Deluxe Condos",
+		"filter": "Deluxe Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38485193252563,
+          19.316519745648613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffb23a",
+        "marker-size": "small",
+        "title": "Georgetown Villas",
+		"description": "Value Condos",
+		"filter": "Value Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38598382472992,
+          19.311199043632215
+        ]
+      }
+    },
+	
+	 {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffb23a",
+        "marker-size": "small",
+        "title": "Island Pine Villas",
+		"description": "Value Condos",
+		"filter": "Value Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38322114944457,
+          19.32124292592548
+		  
+        ]
+      }
+    },		  
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffb23a",
+        "marker-size": "small",
+        "title": "Poinsettia",
+		"description": "Value Condos",
+		"filter": "Value Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38539910316467,
+          19.30900945611996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffb23a",
+        "marker-size": "small",
+        "title": "Sunset Cove",
+		"description": "Value Condos",
+		"filter": "Value Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38588726520538,
+          19.314175823093294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8b16",
+        "marker-size": "small",
+        "title": "Crescent Point",
+		"description": "Deluxe Condos",
+		"filter": "Deluxe Condos"		
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3853132724762,
+          19.315557880847464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#25cbea",
+        "marker-size": "small",
+        "marker-symbol": "lodging",
+        "title": "Westin Casuarina",
+		"description": "Deluxe Hotel",
+		"filter": "Hotels"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38093590736389,
+          19.33933959288787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#25cbea",
+        "marker-size": "small",
+        "marker-symbol": "lodging",
+        "title": "Ritz Carlton",
+		"description": "Luxury Hotel",
+		"filter": "Hotels"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3807213306427,
+          19.335958326051855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#25cbea",
+        "marker-size": "small",
+        "marker-symbol": "lodging",
+        "title": "Marriott Beach Resort",
+		"description": "Deluxe Hotel",
+		"filter": "Hotels"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38400435447693,
+          19.317663851147135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#25cbea",
+        "marker-size": "small",
+        "marker-symbol": "lodging",
+        "title": "Comfort Suites",
+		"description": "Value Hotel Suites",
+		"filter": "Hotels"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3836932182312,
+          19.317066487328376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#25cbea",
+        "marker-size": "small",
+        "marker-symbol": "lodging",
+        "title": "Sunshine Suites",
+		"description": "Value Hotel Suites",
+		"filter": "Hotels"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.37858629226685,
+          19.33856008548705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#25cbea",
+        "marker-size": "small",
+        "marker-symbol": "lodging",
+        "title": "Kimpton Seafire Hotel",
+		"description": "Opens Late 2016",
+		"filter": "Hotels"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3838005065918,
+          19.351254456945597
+        ]
+      }
+    },  
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffb23a",
+        "marker-size": "small",
+        "title": "Cocoplum",
+		"description": "Value Condos",
+		"filter": "Value Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38575315475464,
+          19.30988276332474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffb23a",
+        "marker-size": "small",
+        "title": "Grapetree",
+		"description": "Value Condos",
+		"filter": "Value Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3860160112381,
+          19.31042446458047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#777777",
+        "marker-size": "small",
+        "marker-symbol": "cross",
+        "title": "The Sovereign",
+		"description": "No Tourist Rentals",
+		"filter": "Non Rentals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38300584387733,
+          19.323881599231626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#777777",
+        "marker-size": "small",
+        "marker-symbol": "cross",
+        "title": "The Pinnacle",
+		"description": "No Tourist Rentals",
+		"filter": "Non Rentals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38118367059326,
+          19.342288722467705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#777777",
+        "marker-size": "small",
+        "marker-symbol": "cross",
+        "title": "The Great House",
+		"description": "No Tourist Rentals",
+		"filter": "Non Rentals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38172911239624,
+          19.344462470010724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#777777",
+        "marker-size": "small",
+        "marker-symbol": "cross",
+        "title": "The Commonwealth",		
+		"description": "No Tourist Rentals",
+		"filter": "Non Rentals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38870087303162,
+          19.359920000000000
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#777777",
+        "marker-size": "small",
+        "marker-symbol": "cross",
+        "title": "The Palms",
+		"description": "No Tourist Rentals",
+		"filter": "Non Rentals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39178037040709,
+          19.36329942662611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",       
+        "title": "Waters Edge",
+		"description": "Luxury Monthly Rental",
+		"filter": "Luxury Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38128995895386,
+          19.33372098225575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#777777",
+        "marker-size": "small",
+        "marker-symbol": "cross",
+        "title": "Private Residence",
+		"filter": "Non Rentals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38165473937988,
+          19.331959432087977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#777777",
+        "marker-size": "small",
+        "marker-symbol": "cross",
+        "title": "Watercolours",
+		"description": "No Tourist Rentals",
+		"filter": "Non Rentals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38206951980591,
+          19.327110009057968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080c0",
+        "marker-size": "small",
+        "marker-symbol": "cinema",
+		"title": "Cinema",
+		"filter": "Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.37877941131592,
+          19.322341438106665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#777777",
+        "marker-size": "small",
+        "marker-symbol": "cross",
+		"title": "The Governors House",
+        "description": "Private Residence",
+		"filter": "Non Rentals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38099990736389,
+          19.340580944312545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+		"marker-color": "#ff8b16",
+        "marker-size": "small",
+        "title": "Laguna Del Mar",
+		"description": "Deluxe Condos",
+		"filter": "Deluxe Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38411164283752,
+          19.319364807349835
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#777777",
+        "marker-size": "small",
+        "marker-symbol": "cross",
+        "title": "Grand Cayman Beach Suites",
+		"description": "CLOSED",
+		"filter": "Non Rentals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38205170631409,
+          19.327828826152977
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#25cbea",
+        "marker-size": "small",
+        "marker-symbol": "lodging",
+        "title": "Margaritaville Hotel",
+		"description": "Under Construction 2016",
+		"filter": "Hotels"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38471245765685,
+          19.314368198132694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8b16",
+        "marker-size": "small",
+        "title": "Britannia Villas",
+		"description": "Deluxe Condos",
+		"filter": "Deluxe Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.37474536895752,
+          19.326806282574292
+        ]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080c0",
+        "marker-size": "small",
+        "marker-symbol": "ferry",
+        "title": "Rum Point Ferry",
+        "description": "Park/Day Area",
+		"filter": "Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.27205967903137,
+          19.371599833871368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffb23a",
+        "marker-size": "small",
+        "title": "Kaibo Yacht Club",
+        "description": "Value Condos",
+		"filter": "Value Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.27563238143921,
+          19.35625499879118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffb23a",
+        "marker-size": "small",
+        "title": "The Pools",
+        "description": "Value Condos",
+		"filter": "Value Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.27831459045409,
+          19.355586919076927
+        ]
+      }
+    },
+	 {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffb23a",
+        "marker-size": "small",
+        "title": "On the Bay",
+        "description": "Value Condos",
+		"filter": "Value Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.17554843425751,
+          19.34690163379957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffb23a",
+        "marker-size": "small",
+        "title": "Caribbean Paradise",
+        "description": "Value Condos",
+		"filter": "Value Condos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.37904763221741,
+          19.26677379503755
+        ]
+      }
+    },
+	 {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#777777",
+        "marker-size": "small",
+        "marker-symbol": "cross",
+        "title": "Private Residence",
+		"filter": "Non Rentals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38361811637878,
+          19.32308052509591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#777777",
+        "marker-size": "small",
+        "marker-symbol": "cross",
+        "title": "Mandalay",
+		"description": "No Tourist Rentals",
+		"filter": "Non Rentals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38907104730606,
+          19.360311499813037
+        ]     
+      }   
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#777777",
+        "marker-size": "small",
+        "marker-symbol": "cross",
+        "title": "Private Residence",
+		"filter": "Non Rentals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39156013727187,
+          19.362872382993576
+        ]
+      }
+    },      
+	  {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080c0",
+        "marker-size": "small",
+        "marker-symbol": "bar",
+        "title": "Royal Palms",
+        "description": "Beach Bar/Restaurant",
+		"filter": "Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38390779495239,
+          19.321733966845446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080c0",
+        "marker-size": "small",
+        "marker-symbol": "bar",
+        "title": "Calico Jacks",
+        "description": "Beach Bar/Restaurant",
+		"filter": "Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38386487960815,
+          19.350039727284127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080c0",
+        "marker-size": "small",
+        "marker-symbol": "bar",
+        "title": "Tikki Beach Bar",
+        "description": "Beach Bar/Restaurant",
+		"filter": "Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38515254364014,
+          19.35249010153275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080c0",
+        "marker-size": "small",
+        "marker-symbol": "playground",
+        "title": "Public Beach",
+		"filter": "Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38319969177246,
+          19.349290639484636
+        ]
+      }
+    },
+	 {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080c0",
+        "marker-size": "small",
+        "marker-symbol": "ferry",
+        "title": "Camana Bay Ferry",
+		"filter": "Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.37670874595642,
+          19.32132898475005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080c0",
+        "marker-size": "small",
+        "marker-symbol": "airport",
+        "title": "Airport",
+		"filter": "Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.35723590850829,
+          19.29479034632222
+        ]
+      }
+    },	   
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080c0",
+        "marker-size": "small",
+        "marker-symbol": "car",
+        "title": "Andys Rent a Car",
+		"filter": "Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.35698646306992,
+          19.297387698079344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080c0",
+        "marker-size": "small",
+        "marker-symbol": "car",
+        "title": "Avis Rent a Car",
+		"filter": "Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.35935217142104,
+          19.295828279357597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080c0",
+        "marker-size": "small",
+        "marker-symbol": "entrance",
+        "title": "Cayman Villas Office",
+		"filter": "Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.36024802923203,
+          19.29512704239407
+        ]      
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#119f29",
+        "marker-size": "small",
+        "marker-symbol": "grocery",
+        "title": "Fosters Supermarket",
+		"filter": "Supermarkets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.39769434928894,
+          19.368937871710408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#119f29",
+        "marker-size": "small",
+        "marker-symbol": "grocery",
+        "title": "Fosters Supermarket",
+		"description": "and Pharmacy",
+		"filter": "Supermarkets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.37934803962708,
+          19.33161521891654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#119f29",
+        "marker-size": "small",
+        "marker-symbol": "grocery",
+        "title": "Kirks Supermarket",
+		"filter": "Supermarkets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38170838356018,
+          19.304956743388335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#119f29",
+        "marker-size": "small",
+        "marker-symbol": "grocery",
+        "title": "Cost U Less",
+		"description": "Groceries / Goods",
+		"filter": "Supermarkets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.37846827507018,
+          19.341799572354958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#119f29",
+        "marker-size": "small",
+        "marker-symbol": "grocery",
+        "title": "Hurleys",
+        "description": "Supermarket",
+        "filter": "Supermarkets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.34584724903107,
+          19.281739675466753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#119f29",
+        "marker-size": "small",
+        "marker-symbol": "grocery",
+        "title": "Fosters Supermarket",
+        "filter": "Supermarkets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3663125038147,
+          19.29284610282535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#119f29",
+        "marker-size": "small",
+        "marker-symbol": "grocery",
+        "title": "Priced Right",
+        "description": "Good/Groceries",
+        "filter": "Supermarkets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.36710643768309,
+          19.292906860784225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#119f29",
+        "marker-size": "small",
+        "marker-symbol": "grocery",
+        "title": "Bay Market",
+        "filter": "Supermarkets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.37796401977538,
+          19.32133404703244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#119f29",
+        "marker-size": "small",
+        "marker-symbol": "grocery",
+        "title": "Shop Right",
+        "filter": "Supermarkets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3865578174591,
+          19.28507396131113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#119f29",
+        "marker-size": "small",
+        "marker-symbol": "grocery",
+        "title": "Fosters Supermarket",
+        "filter": "Supermarkets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.29829704761504,
+          19.273944219947627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#119f29",
+        "marker-size": "small",
+        "marker-symbol": "grocery",
+        "title": "Chisholms Grocery",
+        "filter": "Supermarkets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.21223568916321,
+          19.352266724754468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080c0",
+        "marker-size": "small",
+        "marker-symbol": "bar",
+        "title": "Rum Point Beach Bar",
+        "filter": "Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.27151787281036,
+          19.371432829919122
+        ]
+      }
+    },
+    { 
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Treasure Cove",
+        "description": "Cayman Kai",
+        "filter": "Cayman Kai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.27210259437561,
+          19.363866865322365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Villa Bellagio",
+        "description": "Cayman Kai",
+        "filter": "Cayman Kai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.27205967903137,
+          19.363563207239366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Villa Emmanuel",
+        "description": "Cayman Kai",
+        "filter": "Cayman Kai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2734866142273,
+          19.360334274643087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Gardens of the Kai",
+        "description": "Cayman Kai",
+        "filter": "Cayman Kai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.27526760101318,
+          19.35722674621767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Flip Flop Kai",
+        "description": "Cayman Kai",
+        "filter": "Cayman Kai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2717592716217,
+          19.3642008885604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Kirk Kove",
+        "description": "Cayman Kai",
+        "filter": "Cayman Kai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.27321839332579,
+          19.36695402372612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Sea Magic",
+        "description": "Cayman Kai",
+        "filter": "Cayman Kai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.27371191978455,
+          19.362976133341846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Halcyon Days",
+        "description": "Cayman Kai",
+        "filter": "Cayman Kai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.27363681793213,
+          19.365941847084898
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Rum Haven",
+        "description": "Cayman Kai",
+        "filter": "Cayman Kai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.27177000045776,
+          19.37056744306177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Rum Sands",
+        "description": "Cayman Kai",
+        "filter": "Cayman Kai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.27150177955627,
+          19.370719265649836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Kozy Kai",
+        "description": "Cayman Kai",
+        "filter": "Cayman Kai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.26371264457701,
+          19.367055241044547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Beach Plum",
+        "description": "North Side",
+        "filter": "North Side"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.21092677116394,
+          19.35220598886306
+        ]
+      }
+    },   
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Morning Glory",
+        "description": "South Coast",
+        "filter": "South Coast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.30300164222717,
+          19.268389193563
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Coco Kai",
+        "description": "North Side",
+        "filter": "North Side"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.21127009391785,
+          19.352327460623254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Coral Reef",
+        "description": "Seven Mile Beach",
+        "filter": "Seven Mile Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3837468624115,
+          19.32308052509591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Cayman Chillin",
+        "description": "East End",
+        "filter": "East End"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.10151410102844,
+          19.299681231729444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Shellen",
+        "description": "East End",
+        "filter": "East End"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.11243605613707,
+          19.352823469371994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Shamrock House",
+        "description": "South Coast",
+        "filter": "South Coast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.34218335151672,
+          19.279671219530552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Villa La Playa",
+        "description": "Cayman Kai",
+        "filter": "Cayman Kai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.27106189727783,
+          19.368958114932735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Faroway",
+        "description": "South Coast",
+        "filter": "South Coast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.36798620223999,
+          19.27158955992395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+     "properties": {
+        "marker-color": "#fd5a33",
+        "marker-size": "small",
+        "title": "Villa Esprit",
+        "description": "North Side",
+        "filter": "North Side"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2103259563446,
+          19.352185743560895
+        ]
+      }
+    }
+  ]
+}
+  
+
